@@ -23,7 +23,7 @@
                  "-m" = message flag
         - git push origin master 
             *master = branch 
-            *origin = repo 
+            *origin = repo x
 
 
         ** git remote -v  tells you the remote repositories you are pulling from          
